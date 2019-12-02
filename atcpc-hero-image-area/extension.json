@@ -1,0 +1,9 @@
+{
+  "id": "atcpc-hero-image-area",
+  "name": "Hero Image Area",
+  "srcdoc": "./build/index.html",
+  "sidebar":false,
+  "fieldTypes": [
+    "Asset"
+  ]
+}
